@@ -1,12 +1,11 @@
 # Netguru Mobile Security
 This is the official GitHub repository of Netguru mobile security process.
 
-You can select one of the links, to go to specific page.
+Each main point is separated into a different page. You can select one of the links, to go to specific topic. 
 
 ## Table of Contents
 
-1. [Introduction](Pages/01.Introduction.md)
-    - [sub-section](Pages/01.Introduction.md#sub-section) 
+1. [Introduction](Pages/01.Introduction.md) 
     - [Purpose](Pages/01.Introduction.md#purpose)
     - [Inputs](Pages/01.Introduction.md#inputs)
     - [Aspects used to determine the Security level](Pages/01.Introduction.md#aspects-used-to-determine-the-security-level)

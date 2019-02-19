@@ -52,7 +52,7 @@ Each main point is separated into a different page. You can select one of the li
         - [Obfuscation](Pages/04.Security_Requirements.md#obfuscation)
         - [Backend keys handling](Pages/04.Security_Requirements.md#backend-keys-handling)
         - [OWASP Mobile Top 10 requirements](Pages/04.Security_Requirements.md#owasp-mobile-top-10-requirements)
-        - [Root/jailbreak detection](Pages/04.Security_Requirements.md#root/jailbreak=detection)
+        - [Root/jailbreak detection](Pages/04.Security_Requirements.md#root/jailbreak-detection)
         - [Proper system permission handling](Pages/04.Security_Requirements.md#proper-system-permission-handling)
         - [Intrusion Detection System](Pages/04.Security_Requirements.md#intrusion-detection-system)
         - [Data wiping on logout](Pages/04.Security_Requirements.md#data-wiping-on-logout)

@@ -1,7 +1,12 @@
-# Netguru Mobile Security
-This is the official GitHub repository of Netguru mobile security process.
+# Netguru Mobile Security Review
 
-Each main point is separated into a different page. You can select one of the links, to go to specific topic.
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This repository contains a full description of Netguru’s security review process for mobile projects.
+
+## How to read?
+
+You can read it on Github using table of contents below or download it as an [e-book](https://github.com/netguru/mobile-security-review/releases).
 
 ## Table of Contents
 

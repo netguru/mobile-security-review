@@ -1,0 +1,10 @@
+{
+  "root" : "./Pages",
+  "plugins" : ["anchors"],
+  "structure": {
+    "readme": "Foreword.md"
+  },
+  "title" : "Mobile Security Review Guidelines",
+  "author": "Netguru S.A.",
+  "language": "en"
+}

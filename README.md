@@ -1,4 +1,4 @@
-<a href="https://github.com/netguru/mobile-security-review/releases"><img width=180px align="right" style="float: right;" src="Pages/cover_small.jpg"></a>
+<a href="https://github.com/netguru/mobile-security-review/releases"><img width=180px align="right" style="float: right;" src="Pages/cover_small.jpg" /></a>
 
 # Netguru Mobile Security Review
 
